@@ -14,7 +14,10 @@ public class Substraction {
 		c = 40;
 		d = 30;
 		System.out.println("Substraction " + (c - d));
-		
+		//conflict example
+		c = 50;
+		d = 40;
+		System.out.println("Substraction " + (c - d));
 
 	}
 
