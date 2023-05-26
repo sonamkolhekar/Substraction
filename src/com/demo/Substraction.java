@@ -14,6 +14,10 @@ public class Substraction {
 		c = 40;
 		d = 30;
 		System.out.println("Substraction " + (c - d));
+		//conflict example form user
+		c = 60;
+		d = 50;
+		System.out.println("Substraction " + (c - d));
 		
 
 	}
