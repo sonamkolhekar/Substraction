@@ -10,6 +10,11 @@ public class Substraction {
 		c = 30;
 		d = 20;
 		System.out.println("Substraction " + (c - d));
+		//data add from github
+		c = 40;
+		d = 30;
+		System.out.println("Substraction " + (c - d));
+		
 
 	}
 
